@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Admin">
+    <Position X="8.25" Y="5.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAQABAAAAAAAQAAAAAABABAAAAAAA=</HashCode>
+      <FileName>Admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAANCAAAAAAAAAAAAAAAIAAAAACBCAAQBAAgAAQAAAA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Supplier">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAAABACQAAAAAAAAAgAIAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Supplier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chief">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAEQAAAAAEEAAAQAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Chief.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_assistant">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAANCAAAAGAAAAAgAAAgAAAAAAABAAAQJAAwAAAAAAA=</HashCode>
+      <FileName>Shop_assistant.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAIAAAAgAAAAAAAAIAAAAAQAAAAA=</HashCode>
+      <FileName>Shop_toy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiftCard">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAgEAAAAAAAAIAAIAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>GiftCard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Toy">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAANCAAAAAAIACAAAAAAAAAAAAABAAAQJAAgAAAAAAA=</HashCode>
+      <FileName>Toy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Toy_bascket">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAANCAAAAAAAAEAAAAAAAAAIAAARAAgSBAEgAAAgABA=</HashCode>
+      <FileName>Toy_basket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shipping">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Shipping.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
